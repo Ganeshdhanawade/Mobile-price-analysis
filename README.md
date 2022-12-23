@@ -162,7 +162,6 @@ R, spss, Python, Flask, ML, DL, NLP, Render, MySQL, PowerBI, Excel etc.
 ![images](https://user-images.githubusercontent.com/109405138/209291383-14f3f225-e593-4b1b-a506-54db907bb433.png)
 ![download](https://user-images.githubusercontent.com/109405138/209292205-98d13147-5a84-47d3-82eb-870197067abf.png)
 
-![Logo](https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png)
 
 
 ## Feedback
