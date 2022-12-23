@@ -27,7 +27,7 @@ In the more details [click here](https://powerbi.microsoft.com/en-us/desktop/) t
 ## Report
 Here is the report for PowerBI
 
-![New Project](https://github.com/Ganeshdhanawade/Mobile-price-analysis/issues/1)
+![New Project](https://github.com/Ganeshdhanawade/Mobile-price-analysis/blob/main/powerbi.gif.gif)
 
 ## Installation
 ```bash
