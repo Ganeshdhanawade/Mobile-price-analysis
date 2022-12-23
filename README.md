@@ -26,6 +26,9 @@ PowerBI is good platform for just click to create the visuals and push the onlin
 In the more details [click here](https://powerbi.microsoft.com/en-us/desktop/) to check more details about PowerBI.
 ## Report
 Here is the report for PowerBI
+
+![New Project](C:\Users\Sai\Downloads\123.gif)
+
 ## Installation
 ```bash
   Pip install requrement.txt
