@@ -27,7 +27,7 @@ In the more details [click here](https://powerbi.microsoft.com/en-us/desktop/) t
 ## Report
 Here is the report for PowerBI
 
-![New Project](C:\Users\Sai\Downloads\123.gif)
+![New Project](https://editor.flixier.com/share/t7yUI78o))
 
 ## Installation
 ```bash
