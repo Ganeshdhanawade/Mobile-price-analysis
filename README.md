@@ -171,7 +171,7 @@ If you have any feedback, please reach out to us at dhanawadeganesh386@gmail.com
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Ganeshdhanawade/Data-Science-Portfolio)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-dhanawade-47653b201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzQkwQvdBRCyb0AhsyHF%2BdQ%3D%3D)
+[![linkedin](https://www.linkedin.com/in/ganesh-dhanawade-47653b201/)
 
 
 
