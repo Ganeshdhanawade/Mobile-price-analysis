@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>result</title>
+        <style>
+            header{font-size: 15px;background-color: rgb(253, 146, 212);color:rgb(21, 106, 233) ;width: 100%;border: 2px solid black;}
+            body{background-color: antiquewhite;text-align: center;}
+            .ml-container{margin: 30px 0;
+	                   flex: 1 0 auto;}
+            li{font-size: 25px;}
+            ul{text-align: left;font-size: 20px;}
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1><b>Prediction Result</b></h1>
+        </header>
+        <div class="ml-container">
+            {% if prediction==0 %}
+				<h1>Prediction: <span>Mobile price is <q><mark>low</mark></q> </span></h1>
+			{% elif prediction==1 %}
+            <h1>Prediction: <span>Mobile price is <q><mark>Medium</mark></q> </span></h1>
+            {% elif prediction==2 %}
+            <h1>Prediction: <span>Mobile price is <q><mark>High</mark></q> </span></h1>
+            {% elif prediction==3 %}
+            <h1>Prediction: <span>Mobile price is <q><mark>Very High</mark></q> </span></h1>
+			{% else %}
+            <h1>Prediction: <span>Pediction is not happen, plese insert correct valus </span></h1>
+					
+			{% endif %}
+        </div>
+    </body>
+    <ul><h2>prediction information</h2>
+        <ol>
+            <li><b>low</b> :  price is less than 10,000</li>
+            <li><b>Medium</b> :  price between 10,000 to 25,000</li>
+            <li><b>High</b> :  price between 25,000 to 50,000</li>
+            <li><b>Very High</b> :  price is above 50,000</li>
+        </ol>
+    </ul>
+</html>
