@@ -66,7 +66,7 @@ Below is the domo for created application
 ## Live demo
 Below is the link for live demo
 
-https://mobile-price-analysis-api.onrender.com/
+https://mobile-price-analysis.onrender.com
 ## Learning Objective
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)
 
